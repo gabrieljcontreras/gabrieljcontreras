@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, welcome!
+
+## Hello, my name is Gabriel Contreras. I am currently an undergraduate student at the University of Florida unergoing my bachelors in Electrical Engineering. 
 
 <!--
 **gabecodes21/gabecodes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
