@@ -1,13 +1,13 @@
-## Hi there, welcome!
+
 
 ![Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/33a39918-c6d5-4b15-b9de-6bf594a9fce6)
 
 
-Hello, my name is Gabriel Contreras. I am currently an undergraduate student at the University of Florida undergoing my bachelors in Computer Science 🏫. 
+Hello, my name is Gabriel Contreras. I am currently an undergraduate student at the University of Florida undergoing my bachelors in Computer Science. 
 
-Outside of school, i love to workout💪, improve my programming skills👨‍💻, learn about new things, read 📖,  and work on projects. 
+Outside of school, i love to workout, improve my engineering skills, learn about new things, read,  and build things. 
 
-I would love to join new communities and build great things with other like minded people👌.
+I would love to join new communities and build great things with other like minded people 😁.
 
 
 
